@@ -1,12 +1,5 @@
 {
   
-  "email": "qatest@xfive.co",
-  "unregisteredEmail": "qatest+wrongemail@xfive.co",
-  "password": "12345678",
-  "wrongPassword": "wrongpass",
-  "oleraSupportEmail": "olera.support@xfive.co",
-  "confirmationNotice": "If your email address exists in our database, you will receive an email with instructions for how to confirm your email address in a few minutes.",
-  "resetPasswordNotice": "If your email address exists in our database, you will receive a password recovery link at your email address in a few minutes.",
-  "url": "https://stg-app.olera.care/sign-in"
+
   
 }
